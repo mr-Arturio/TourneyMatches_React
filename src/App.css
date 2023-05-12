@@ -32,6 +32,12 @@ section.MatchList > h1 {
   font-style: italic;
 }
 
+section.PlayerList > h1 {
+  width: 100%;
+  text-align: center;
+  font-style: italic;
+}
+
 article.Match,
 article.Player {
   width: 30%;
